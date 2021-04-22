@@ -3,7 +3,6 @@ import numpy as np
 from scipy.io import loadmat
 from scipy.sparse import vstack
 from matplotlib import pyplot as plt
-from sklearn.linear_model import LogisticRegression
 from sklearn.utils import shuffle
 
 # Load in data
